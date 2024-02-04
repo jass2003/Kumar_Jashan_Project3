@@ -1,6 +1,6 @@
 
 # Kumar_Jashan_Project3-main
- main
+
 # Jashan Kumar Responsive Grid scafhold assignment.
 ## This repo is for our Homework 2 for webdev 1056.
 
@@ -19,7 +19,7 @@ Push to the branch: git push origin my-new-feature
  dev.jk-folder-structure
 Submit a pull request 
 
-main
+
 
 
 ## History
