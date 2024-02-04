@@ -1,6 +1,6 @@
-<<<<<<< Updated upstream
+
 # Kumar_Jashan_Project3-main
-=======
+ main
 # Jashan Kumar Responsive Grid scafhold assignment.
 ## This repo is for our Homework 2 for webdev 1056.
 
@@ -16,7 +16,10 @@ Fork it!
 Create your feature branch: git checkout -b my-new-feature
 Commit your changes: git commit -am 'Add some feature'
 Push to the branch: git push origin my-new-feature
+ dev.jk-folder-structure
 Submit a pull request 
+
+main
 
 
 ## History
@@ -28,4 +31,6 @@ Jashan Kumar
 
 ## License
 MIT License
->>>>>>> Stashed changes
+ dev.jk-folder-structure
+
+
